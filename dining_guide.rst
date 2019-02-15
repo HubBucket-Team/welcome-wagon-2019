@@ -85,6 +85,23 @@ Seattle is served by taxis as well as rideshare services such as Lyft, Uber and
 ReachNow. There are also car-share services such as Car2Go and ReachNow, but
 street parking is limited in Capitol Hill and Downtown.
 
+**Fremont**
+
+*20-30 minutes via public transit*
+
+Fremont is known for its quirky, artistic flair. It’s home to the Fremont Troll sculpture, the most-frequently opened drawbridge in the United States (which doubles as an art studio for the current artist-in-residence) and a number of dining spots and bars. The easiest way to get to Fremont from the U-District is to grab either the 31 or 32 bus.
+
+Short List:
+
+- `Cafe Turko, Turkish food with plenty of gluten free, vegan and vegetarian options <https://cafe-turko.com/>` 20 minutes public transit
+
+- `Pie, counter service hand pies <http://sweetandsavorypie.com/>, includes veggie & gluten free options` 20 minutes public transit
+
+- `Eve, slightly fancier sit-down with a full-service bar <https://www.evefremont.com/>` 20 minutes public transit
+
+- `Uneeda Burger, unfussy but delicious counter service burgers <http://uneedaburger.com/>` 20 minutes public transit + 5 minute walk uphill
+
+
 **Capitol Hill**
 
 *15-20 minutes via public transit*
